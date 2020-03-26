@@ -10,13 +10,27 @@ require ('datas/datas.php')
     <h1>  votre date est : 
         <?php echo $_GET['date']; ?> 
     </h1>
-<br>
+
+<hr>
+
+<!-- recuperation des infos liées aux evenements -->
+<div class='evenement'>
+    <?php
+        evenement()
+    ?>
+    </div>
+
+    <br>
+    <hr>
+    <br>
 <!-- recupération des infos liées à l'époque -->
     <div class='period'>
         <?php
         epoque();
         ?>
     </div>
+    
+    
 
 </div>
 

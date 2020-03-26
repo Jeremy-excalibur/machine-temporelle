@@ -9,9 +9,9 @@ require ('functions.php');
     
 <p> 
     Salut à toi voyageur du temps<br>
-    J'ai préparer pour toi une machine a voyager dans le temps, 
-    enfin elle est pas encore finie. <br>
-    Choisi une date et parcours l'histoire.
+    J'ai préparé pour toi une machine à voyager dans le temps. 
+    Enfin.. elle n'est pas encore finie. <br>
+    Choisis une date et découvre son histoire.
 </p>
 
 <!-- Partie formulaire -->

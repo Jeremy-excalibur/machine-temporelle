@@ -1,0 +1,29 @@
+body {
+    width: auto;
+    background-color: rgba(231, 214, 214, 0.329);
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Anton', sans-serif;
+    font-size: 45px;
+}
+
+p {
+    font-family: 'Indie Flower', cursive;
+    font-size: 25px;
+}
+
+.error {
+    display: none;
+    border: 3px solid black;
+    background-color: grey;
+    height: auto;
+    color: white;
+    padding: 5px;
+    justify-content: center;
+}
+
+.period {
+    font-size: 30px;
+}
